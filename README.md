@@ -1,0 +1,2 @@
+# Machine-Learning-Term-Paper
+An empirical comparative analysis of machine learning classification algorithms for distinguishing among nine malware families: Ramnit, Lollipop, Kelihos_ver3, Vundo, Simda, Tracur, Kelihos_ver1, Obfuscator.ACY, and Gatak.
